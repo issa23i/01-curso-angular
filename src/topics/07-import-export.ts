@@ -16,4 +16,4 @@ const shoppingCar: Product[] = [
         tax: 0.15,
         products: shoppingCar
     });
-    console.log(total, tax);
+    //console.log(total, tax);

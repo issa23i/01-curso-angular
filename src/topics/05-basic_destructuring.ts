@@ -37,6 +37,6 @@ const audioVolume = 52;
 const [,,trunks = 'Not found']: string [] = ['Goku','Vegeta']
 
 
-console.log('Personaje 3:', trunks);
+//console.log('Personaje 3:', trunks);
 
 export {}
