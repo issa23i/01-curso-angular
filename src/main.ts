@@ -4,6 +4,7 @@ import './style.css'
 import './topics/02-object-interfaces'
 import './topics/03-functions.ts'
 import './topics/04-homework-types.ts'
+import './topics/05-basic_destructuring.ts'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
    
