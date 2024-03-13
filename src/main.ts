@@ -12,5 +12,5 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     
   </div>
 `
-console.log('hola mundo')
+//console.log('hola mundo')
 //setupCounter(document.querySelector<HTMLButtonElement>('#counter')!)

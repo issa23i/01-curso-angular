@@ -11,6 +11,6 @@ hpPoints2 = 'FULL';
 
 const isAlive : boolean = true;
 
-console.log(name, hpPoints, hpPoints2, isAlive)
+//console.log(name, hpPoints, hpPoints2, isAlive)
 
 export {}

@@ -22,16 +22,21 @@ const audioPlayer: AudioPlayer = {
 }
 
 
-const {audioVolume:anothersong, songDuration:duration, details} = audioPlayer;
+//const {audioVolume:anothersong, songDuration:duration, details} = audioPlayer;
 const audioVolume = 52;
 
-const {author, year} = details;
+//const {author, year} = details;
 
-console.log(author,year);
-console.log(anothersong);
-console.log(audioVolume);
-console.log(duration);
-console.log(audioPlayer.audioVolume);
+// console.log(author,year);
+// console.log(anothersong);
+// console.log(audioVolume);
+// console.log(duration);
+// console.log(audioPlayer.audioVolume);
 
+
+const [,,trunks = 'Not found']: string [] = ['Goku','Vegeta']
+
+
+console.log('Personaje 3:', trunks);
 
 export {}
