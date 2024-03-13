@@ -41,4 +41,4 @@ const tony = new Person('Tony Stark', 'Shown','New York');
 const ironman = new Hero('Iron Man',56,'Blabla',tony)
 
 
-console.log(ironman)
+//console.log(ironman)
